@@ -10,6 +10,7 @@ In this file is contain the answers to the research question of our second homew
 ## command_line.sh
 We wrote a bash script to print the profile information of the users with the longest description on their post
 <img width="382" alt="command_l" src="https://user-images.githubusercontent.com/115465627/198899069-10bc9ece-d192-4d72-993a-1b6c7f2c0e51.png">
+
 This image shows the users's profile id, username, first name and last name, number of follower; it shows User not found! if the profile_id isn't in instagram_profiles.csv
 ## Algorithmic Question
 In Algorithmic Question file there is the answers to the last part of the homework 
